@@ -67,4 +67,4 @@ For the dashboard loads data directly from Google Drive using shared public link
 ## 📬 Contact
 [Linkedin](https://www.linkedin.com/in/carmenita-lamba-6a7555220/)
 
-Email: carmenitalamba17@gmail.com
+carmenitalamba17@gmail.com
