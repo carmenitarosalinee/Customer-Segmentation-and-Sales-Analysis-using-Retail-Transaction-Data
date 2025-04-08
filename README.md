@@ -30,24 +30,24 @@ For the dashboard loads data directly from Google Drive using shared public link
 
 ## 📊 Analysis Summary
 1. Data Cleaning
-  - Removed invalid or canceled transactions
-  - Handled missing values
+    - Removed invalid or canceled transactions
+    - Handled missing values
     
 2. Exploratory Data Analysis (EDA)
-  - Top countries by transactions
-  - Distribution of frequency, price, and quantity
-  - Visualizations with Matplotlib & Seaborn
+    - Top countries by transactions
+    - Distribution of frequency, price, and quantity
+    - Visualizations with Matplotlib & Seaborn
     
 3. RFM Analysis
-  Recency: Days since last purchase
-  - Frequency: Number of purchases
-  - Monetary: Total spending
-  - RFM scoring using quantiles
+    - Recency: Days since last purchase
+    - Frequency: Number of purchases
+    - Monetary: Total spending
+    - RFM scoring using quantiles
 
 4. Interactive Dashboard
-- Built with Streamlit
-- Displays RFM distribution, heatmaps, segment summaries
-- Easy to use for business users
+  - Built with Streamlit
+  - Displays RFM distribution, heatmaps, segment summaries
+  - Easy to use for business users
 
 ## 🔗 Live Demo Dashboard 
 
