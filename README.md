@@ -66,4 +66,5 @@ For the dashboard loads data directly from Google Drive using shared public link
 
 ## 📬 Contact
 [Linkedin](https://customer-segmentationdashboard.streamlit.app/)
+
 Email: carmenitalamba17@gmail.com
