@@ -65,6 +65,6 @@ For the dashboard loads data directly from Google Drive using shared public link
 - Apply clustering techniques (e.g. KMeans) for enhanced segmentation
 
 ## 📬 Contact
-[Linkedin](https://customer-segmentationdashboard.streamlit.app/)
+[Linkedin](https://www.linkedin.com/in/carmenita-lamba-6a7555220/)
 
 Email: carmenitalamba17@gmail.com
