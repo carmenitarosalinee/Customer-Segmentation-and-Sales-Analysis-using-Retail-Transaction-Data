@@ -20,7 +20,7 @@ For the dashboard loads data directly from Google Drive using shared public link
 - **[rfm_segment.csv](https://drive.google.com/file/d/1lhBDx7Wk_6btlPQ4b1K80ZvQRJ0XaF8G/view?usp=sharing)**: Pre-processed RFM segmentation results
 
 ## 🧰 Tools and Libraries
-- Python 3
+- Python 3.11.11
 - Pandas
 - NumPy
 - Matplotlib
