@@ -52,3 +52,18 @@ For the dashboard loads data directly from Google Drive using shared public link
 ## 🔗 Live Demo Dashboard 
 
 👉 [Click here to view the live app on Streamlit Cloud](https://customer-segmentationdashboard.streamlit.app/)
+
+
+## 📈 Key Insights
+- Customers with high Frequency and Monetary scores are highly valuable.
+- RFM scores help prioritize marketing strategies.
+- The dashboard provides a dynamic way to explore customer segments.
+
+## 📌 Future Improvements
+- Add predictive modeling (e.g. Customer Lifetime Value)
+- Expand dashboard with filters and segment drilldowns
+- Apply clustering techniques (e.g. KMeans) for enhanced segmentation
+
+## 📬 Contact
+[Linkedin](https://customer-segmentationdashboard.streamlit.app/)
+Email: carmenitalamba17@gmail.com
